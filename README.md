@@ -90,6 +90,5 @@ pip install -r requirements.txt
 
 **Piyush Kumar**  
 📍 Built with Python, OpenCV & MediaPipe  
-🔗 [LinkedIn](https://linkedin.com/in/piyushkumar) • [GitHub](https://github.com/piyushkumar)
-
+🔗 [LinkedIn](https://www.linkedin.com/in/piyush-kumar-20789131a/) • [GitHub](https://github.com/Piyus563)
 
